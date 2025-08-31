@@ -106,12 +106,8 @@ When you activate the coop mode in the BACAP datapack, this plugin works perfect
 
 ## Support
 
-- **Issues**: This is my first Plugin so please report bugs or request features on the [GitHub Issues page](
+- **Issues**: This is my first Plugin so please report bugs or request features here on GitHub
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Credits
 
